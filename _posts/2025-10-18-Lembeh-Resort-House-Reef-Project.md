@@ -30,14 +30,13 @@ tags: Lembeh
 - Weld small squares of sheet metal to the bottom of each leg to act as feet and disperse the weight of the spiders. 
 - Wrap the entire frame in 1/8 inch galvanized steel wire to crete a more textured surface. This will hopefully help corals grab onto frames better, but will also create a structure to support the concrete for a few of the frames. 
 
-![Alt text](../images/Rebar_Spider.jpg "Rebar Spiders")
-
+<img src="../images/Rebar_Spider.jpg" alt="Rebar spiders" width="200"/>
 
 - Create a (not sure what kind of concrete) concrete mixture (no sand) and coated three of the frames in about 1/2 inch to 1 inch of concrete mixture. Let this dry in between layers if needed to accomplish the desired thickness.
 
-![Alt text](../images/Concrete_Spider.jpg "Concrete Spiders")
-
 - See image below for dimensions and drawing.
+
+<img src="../images/Concrete_Spider.jpg" alt="Concrete spiders" width="200"/>
 
 
 
@@ -47,7 +46,8 @@ tags: Lembeh
 - Scraps of underwater paper were labeled with numbers 1-6 and were attached to frames using zipe ties. 
 - See image below  for map.
 
-![Alt text](../images/Dimensions_And_Map.jpg "Map and Frame Dimensions")
+<img src="../images/Dimensions_And_Map.jpg" alt="Map and Frame Dimensions" width="200"/>
+
 
 #### Coral selection and Outplantation
 - Coral colonies were identified by each of two teams (team Acropora and team Pocillopora). Roving house reef surveys were used to identify colonies.
@@ -57,8 +57,7 @@ tags: Lembeh
 - Recent work by the RRAP project out of AIMS suggests frames of this nature should have no more than 18 fragments on it for maximum success. These Spiders were made before we knew this, and thus host 20 fragments each.
 - At the end of the outplantation, Pocillopora had a greater overall number of branches, as well as wider variability in branch number, wehreas Acropora fragments thad lower and more uniform number of branches. The same was true of TLE at timepoint 0.
 
-![Alt text](../images/TP0_Branches_And_TLE.jpg "Timepoint Zero Branch Number and Total Linear Extension")
-
+<img src="../images/TP0_Branches_And_TLE.jpg" alt="Timepoint Zero Branch Number and Total Linear Extension" width="200"/>
 
 ## Initial Timepoint Data Collection
 Data was  (or will be) collected at TP 0, 1 month, 2 months, 3 months, 4 months, and 6 month. At the time of this document, time 0 and 1 month have been recorded. I recommend that monitoring continue bi-annually for at least 2 years, as recent studies suggest ourplant success is not stable at 1 year post-outplant as has been previously assumed. 
