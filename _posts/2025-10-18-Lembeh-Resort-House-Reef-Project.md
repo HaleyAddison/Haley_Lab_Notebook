@@ -29,15 +29,25 @@ tags: Lembeh
 - Take a small piece of rebar that will fit between the legs about 1/2 way down the leg. Weld that into place for all 6 spaces. 
 - Weld small squares of sheet metal to the bottom of each leg to act as feet and disperse the weight of the spiders. 
 - Wrap the entire frame in 1/8 inch galvanized steel wire to crete a more textured surface. This will hopefully help corals grab onto frames better, but will also create a structure to support the concrete for a few of the frames. 
-- Create a (not sure what kind of concrete) concrete mixture (no sand) and coated three of the frames in about 1/2 inch to 1 inch of concrete mixture. Let this dry in between layers if needed to accomplish the desired thickness.
-- See image for dimensions and drawing.
 
-#### Croal Spider Placement
+![Alt text](../images/Rebar_Spider.jpg "Rebar Spiders")
+
+
+- Create a (not sure what kind of concrete) concrete mixture (no sand) and coated three of the frames in about 1/2 inch to 1 inch of concrete mixture. Let this dry in between layers if needed to accomplish the desired thickness.
+
+![Alt text](../images/Concrete_Spider.jpg "Concrete Spiders")
+
+- See image below for dimensions and drawing.
+
+
+
+#### Coral Spider Placement
 - Utilizing Lembeh Resort vessels, we placed dried frames on the boat, drove out to the desired location on the house reef, and handed the frames over the side of the boat. 
 - We used BCDs to compensate for weight, and slowly eased frams to the bottom
 - Scraps of underwater paper were labeled with numbers 1-6 and were attached to frames using zipe ties. 
-- See image for map. 
+- See image below  for map.
 
+![Alt text](../images/Dimensions_And_Map.jpg "Map and Frame Dimensions")
 
 #### Coral selection and Outplantation
 - Coral colonies were identified by each of two teams (team Acropora and team Pocillopora). Roving house reef surveys were used to identify colonies.
@@ -46,6 +56,8 @@ tags: Lembeh
 - Ten (10) fragments of each species were placed on each frame (total n=20) such that Acropora took up 1/2 of each frame, and Pocillopora took up the other 1/2
 - Recent work by the RRAP project out of AIMS suggests frames of this nature should have no more than 18 fragments on it for maximum success. These Spiders were made before we knew this, and thus host 20 fragments each.
 - At the end of the outplantation, Pocillopora had a greater overall number of branches, as well as wider variability in branch number, wehreas Acropora fragments thad lower and more uniform number of branches. The same was true of TLE at timepoint 0.
+
+![Alt text](../images/TP0_Branches_And_TLE.jpg "Timepoint Zero Branch Number and Total Linear Extension")
 
 
 ## Initial Timepoint Data Collection
