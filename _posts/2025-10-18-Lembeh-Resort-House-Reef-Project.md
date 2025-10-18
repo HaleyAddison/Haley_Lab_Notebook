@@ -5,10 +5,6 @@ date: '2025-10-18'
 categories: Protocols
 tags: Lembeh
 ---
-| Layout | Title                            | Date        | Categories | Tags   |
-| ------ | -------------------------------- | ----------- | ---------- | ------ |
-| post   | Lembeh Resort House Reef Project | 18-Oct-2025 | Protocols  | Lembeh |
-
 
 # Outplanting Lembeh Resort House Reef
 
