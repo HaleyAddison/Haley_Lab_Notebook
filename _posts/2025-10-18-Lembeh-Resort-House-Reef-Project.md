@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lembeh Resort House Reef Project
-date: '2025-10-18'
+date: '2025-09-05'
 categories: Protocols
 tags: Lembeh
 ---
@@ -57,10 +57,10 @@ tags: Lembeh
 - Recent work by the RRAP project out of AIMS suggests frames of this nature should have no more than 18 fragments on it for maximum success. These Spiders were made before we knew this, and thus host 20 fragments each.
 - At the end of the outplantation, Pocillopora had a greater overall number of branches, as well as wider variability in branch number, wehreas Acropora fragments thad lower and more uniform number of branches. The same was true of TLE at timepoint 0.
 
-<img src="../images/TP0_Branches_and_TLE.jpg" alt="Timepoint Zero Branch Number and Total Linear Extension" width="600"/>
+<img src="../images/TP0_Branches_and_TLE.jpg" alt="Timepoint Zero Branch Number and Total Linear Extension" width="800"/>
 
 ## Initial Timepoint Data Collection
-Data was  (or will be) collected at TP 0, 1 month, 2 months, 3 months, 4 months, and 6 month. At the time of this document, time 0 and 1 month have been recorded. I recommend that monitoring continue bi-annually for at least 2 years, as recent studies suggest ourplant success is not stable at 1 year post-outplant as has been previously assumed. 
+**Data was  (or will be) collected at TP 0, 1 month, 2 months, 3 months, 4 months, and 6 month. At the time of this document, time 0 and 1 month have been recorded. I recommend that monitoring continue bi-annually for at least 2 years, as recent studies suggest ourplant success is not stable at 1 year post-outplant as has been previously assumed.** 
 
 #### Total Linear Extension and Branch counts
 - Total Linear Extension was measured using a ruler and marked for each individual on each frame. This included a measurement of the total length of each branch from the midpoint at which it connected to the main branch, out to its apical point. 
