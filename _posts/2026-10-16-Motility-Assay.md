@@ -1,0 +1,48 @@
+x
+
+| Layout | Title   | Date   | Categories | Tags   |
+| ------ | ------- | ------ | ---------- | ------ |
+| post   | attempt | 15-Oct | try        | trying |
+
+
+# Protocol Title Here
+
+
+**Goal: enter something here**   
+
+
+## Materials and Equipment  
+- list 
+- list
+- list
+- 
+
+
+## Protocol Steps
+
+#### title
+- list
+- list
+- list
+
+
+#### New title
+- list
+- list
+- list
+- 
+
+
+#### Try to make a table of insert a photo?
+- Re-weigh all samples and mark down their post-drying weight. 
+- Subtract the weight of the tares alone to obtain the weight of the dried plant matter above and below the surface. 
+
+
+
+---
+layout: post
+title: Motility Assay
+date: '2026-10-16'
+categories: Goals, Protocols
+tags: Symbiont Strain Comparisons
+---
